@@ -1,0 +1,3 @@
+Usar implementação de Runnable turna a classe um pouco mais flexivel pois alem de poder ser usada como
+um Thread pode ter outras caracteristicas proprias. Usamos a extensão de Thread quando a unica função da classe é
+ser uma Thread
