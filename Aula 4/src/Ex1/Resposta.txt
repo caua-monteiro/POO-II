@@ -1,0 +1,8 @@
+Tique Tique Tique Tique Tique Taque
+Taque
+Taque
+Taque
+Taque
+
+a saida ficou como demonstrado acima, isso ocorre por que as threads nao esperam mais
+assim tornando a saida de tiques e taques em algo aleatorio
